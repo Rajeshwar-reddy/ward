@@ -1,0 +1,82 @@
+#title {
+  background-color: #5D5C61;
+  color: #fff;
+}
+h1 {
+   font-family: 'Anton', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #E7717D;
+}
+
+.container-fluid{
+  padding: 3% 15% 3% 15%
+}
+body {
+  font-family: 'Montserrat' ;
+}
+.navbar{
+  padding: 0 0 4.5rem 0;
+}
+.navbar-brand {
+   font-family: 'Pacifico', cursive;
+  font-size: 2.5rem;
+}
+.nav-item{
+  padding: 0 18px;
+}
+
+.btn {
+  margin: 5% 3% 5% 0
+}
+
+#features{
+  padding: 7% 15%;
+}
+.feature-box{
+  text-align: center;
+  padding: 5% 5%;
+}
+h3{
+  font-weight: bolder;
+  padding: 5% 5%;
+
+}
+p{
+  color: #8f8f8f;
+  font-weight: bolder;
+}
+.icon{
+   color: red;
+}
+.icon:hover{
+  color: yellow;
+}
+.image{
+  height:350px;
+}
+.col-lg-4 {
+ text-align: center;
+ padding: 50px 10px;
+
+}
+.png{
+  height: 500px;
+}
+#press{
+  background-color: #C5D5CB;
+  width: 100%;
+}
+.png2{
+  height: 500px;
+}
+#cta{
+  background-color: #5a7670;
+  text-align: center;
+  font-family: 'Pacifico',cursive;
+  color: white;
+}
+#footer{
+  background-color: #090A0A;
+  color: white;
+}
